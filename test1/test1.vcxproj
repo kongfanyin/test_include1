@@ -123,6 +123,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="p_func.cpp" />
+    <ClCompile Include="P_test.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ptest.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
